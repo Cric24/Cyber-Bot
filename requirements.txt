@@ -1,0 +1,7 @@
+
+fuzzywuzzy==0.18.0
+Levenshtein==0.26.0
+python-Levenshtein==0.26.0
+streamlit==1.39.0
+tornado==6.4.1
+
